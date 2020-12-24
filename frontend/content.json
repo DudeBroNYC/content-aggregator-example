@@ -22,4 +22,11 @@
 	"link": "https://aws.amazon.com/blogs/compute/the-serverless-lamp-stack-part-6-from-mvc-to-serverless-microservices/",
 	"image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2020/10/02/Screenshot-2020-10-01-at-11.25.55.png",
   "tags": ["Interactive workloads","PHP", "LAMP", "Amazon API Gateway", "Amazon API Gateway", "Amazon Aurora", "Amazon RDS", "AWS Lambda", "AWS PHP Development", "AWS SDK for PHP", "Developer Tools", "DevOps", "Programing Language", "RDS for MySQL"]
-}]
+},{
+    "title": "",
+    "image": "",
+    "tags": [
+      ""
+    ]
+  },
+]
